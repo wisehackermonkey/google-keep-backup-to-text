@@ -125,3 +125,6 @@ dmypy.json
 .pyre/
 
 takeout/
+output_v1.txt
+test.txt
+2018-03-26T23_15_34.219-07_00.json
